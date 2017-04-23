@@ -1,0 +1,30 @@
+{
+  "name": "jobland",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superphung/jobland.git"
+  },
+  "keywords": [],
+  "author": "Phung Eric <superphung44@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superphung/jobland/issues"
+  },
+  "homepage": "https://github.com/superphung/jobland#readme",
+  "dependencies": {
+    "cheerio": "0.22.0",
+    "folktale": "2.0.0-alpha4",
+    "got": "6.7.1"
+  },
+  "devDependencies": {
+    "@types/cheerio": "0.22.1",
+    "@types/node": "7.0.13"
+  }
+}
